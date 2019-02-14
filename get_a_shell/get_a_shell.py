@@ -15,7 +15,7 @@
 
 """
 __author__ = "Emilien Peretti"
-__version__ = "1"
+__version__ = "1.1"
 __doc__ = """  Get a shell code (bind/reverse) into different languages                                         
 """
 __examples__ = ["get_a_shell bind python --rport 10",

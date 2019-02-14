@@ -12,7 +12,7 @@ requirements = parse_requirements("requirements.txt", session=False)
 setup(
   name = "get_a_shell",
   packages = find_packages(),
-  version = "1",
+  version = "1.1",
   license = "AGPLv3",
   description = "Get a shell code (bind/reverse) into different languages ",
   author = "Emilien Peretti",

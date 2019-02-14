@@ -20,7 +20,7 @@ Get a shell code (bind/reverse) into different languages
 GetAShell run on Python 2.7 can't work correctly without the following tools
 
 ## Installation
-`sudo pip install get_a_shell`
+`sudo pip install get-a-shell`
 
 ## Options
 | Option | Require for bind | Require for reverse | Description |
