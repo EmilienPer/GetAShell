@@ -23,7 +23,7 @@ GetAShell run on Python 2.7 can't work correctly without the following tools
 `sudo pip install get-a-shell`
 
 ## Options
-| Option | Require for bind | Require for reverse | Description |
+| Option | Required for bind | Required for reverse | Description |
 | ------ | ---------------- | ------------------- | ----------- |
 | type | X | X | The type of shell (bind or reverse) |
 | language | X | X | The language of shell |
